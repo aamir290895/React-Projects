@@ -1,0 +1,9 @@
+.task-form {
+    display: flex;
+}
+
+.btn-form {
+    color: aqua;
+    border-radius: px;
+    background-color: black;
+}
